@@ -1,0 +1,10 @@
+/sports/pro_athlete/teams./sports/sports_team_roster/position
+/sports/sports_position/players./sports/sports_team_roster/player
+/soccer/football_position/players
+/soccer/football_player/current_team./soccer/football_roster_position/position
+/sports/pro_athlete/teams./soccer/football_roster_position/position
+/sports/sports_position/players./soccer/football_roster_position/player
+/soccer/football_player/position_s
+/base/x2010fifaworldcupsouthafrica/world_cup_participant/world_cup_team./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/position
+/soccer/football_player/current_team./sports/sports_team_roster/position
+/location/statistical_region/population./measurement_unit/dated_integer/source

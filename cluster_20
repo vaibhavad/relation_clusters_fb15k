@@ -1,0 +1,8 @@
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+/base/popstra/celebrity/dated./base/popstra/dated/participant
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity
+/base/popstra/celebrity/lived_with./base/popstra/lived_with/participant
+/people/person/spouse_s./people/marriage/spouse
